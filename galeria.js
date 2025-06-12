@@ -1,12 +1,12 @@
     // --- 1. LISTA DE FOTOS ---
     // Coloque os nomes das suas fotos aqui. Crie uma pasta "imagens" para organizar.
     const minhasFotos = [
-        'fotos/foto_olhos_insta.jpg',
-        'fotos/pedido_namoro.jpg',
-        'fotos/braco.jpg',
-        'fotos/amor.jpg',
-        'fotos/beijo.jpg',
-        'fotos/deitados.jpg'
+        'foto_olhos_insta.jpg',
+        'pedido_namoro.jpg',
+        'braco.jpg',
+        'amor.jpg',
+        'beijo.jpg',
+        'deitados.jpg'
     ];
 
     // --- 2. ELEMENTOS DA PÁGINA ---
